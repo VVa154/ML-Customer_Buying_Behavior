@@ -1,0 +1,102 @@
+Sr_No,Quote_Id,Make,Model,Variant,RTO_State,RTO_City,Agent_Name,call_picked_by_customer,Calls_attempted_by_agent,calls_made_by_cust,Connected_Calls,Agent_tone,total_calls_duration,Asked_to_call_back,Customer_Interest,Days_to_expire,Expirystatus,Purchased
+251,300647,TATA,INDICA V2 XETA,1.4 GLS,Delhi,SOUTH DELHI-SHEIKH SARAI,Mohammed Hafeez khan,Yes,5,0,1,Good,265,No,I,2,Days_left,No
+252,300646,MARUTI,EECO,5 STR WITH A/C+HTR,Kerala,THIRUVANANTHAPURAM,Neha Khare,No,0,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+253,300645,CHEVROLET,SPARK,1.0 LT,Assam,KAMRUP,Kireeti Pasupuleti,No,1,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+254,300644,NISSAN MOTORS,X-TRAIL,LE,Jammu & Kashmir,JAMMU,Pardeep Pal,Yes,4,0,3,Good,107,Yes,NI,0,No_data,No
+255,300643,HYUNDAI,EON,ERA PLUS,Andaman & Nicobar Islands,PORT BLAIR,Venkatesh Upperpally,Yes,1,0,1,Good,255,Yes,I,0,Expired,No
+256,300641,MARUTI,SWIFT,NEW VDI (CC- 1248),Uttar Pradesh,NOIDA,Venkatesh Upperpally,Yes,3,0,1,Good,34,No,NI,0,No_data,No
+257,300640,TATA,TIAGO,REVOTRON XZ,HIMACHAL PRADESH,Salooni,Neha Khare,Yes,1,0,1,Good,163,Yes,I,0,Expiring_today,No
+258,300638,HYUNDAI,CRETA,1.6L CRDI VGT 6-SPEED MANUAL SX,Madhya Pradesh,BHOPAL,Pardeep Pal,No,4,0,1,Call Not Picked,6,Call Not Picked,NI,0,No_data,No
+259,300637,MARUTI,VITARA BREZZA,1.2 VDI DDIS 200,Tamil Nadu,Ambattur,Kireeti Pasupuleti,Yes,19,0,11,Good,2133,Yes,I,8,Days_left,No
+260,300635,MARUTI,BALENO NEW,ALPHA PETROL,Delhi,NORTH DELHI,G Raj Kumar Yadav,Yes,7,0,2,Good,809,Yes,I,13,Days_left,No
+261,300634,MARUTI,RITZ,MC VDI ABS,Karnataka,RAJARAJESWARINAGAR,Neha Khare,Yes,5,0,3,Good,392,Yes,NI,32,Days_left,No
+262,300632,MARUTI,DZIRE,TOUR S DIESEL,Punjab,JALANDHAR,Purushotham,Yes,1,0,1,Call Not Picked,8,No,NI,0,No_data,No
+263,300631,MARUTI,VITARA BREZZA,1.2 ZDI DDIS 200,Telangana,Hyderabad,Reena Tarugu,Yes,1,0,1,Good,24,No,NI,0,No_data,No
+264,300630,HONDA,CITY,1.5 V MT EXCLUSIVE,Madhya Pradesh,INDORE,Syed Fareed Uddin,No,1,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+265,300629,TOYOTA,INNOVA CRYSTA,2.5 VX (DIESEL) 7 SEATER,Karnataka,BANGALORE WEST (RAJAJINAGAR),Syed Fareed Uddin,No,4,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+266,300628,TATA,TIAGO,REVOTRON XZ,Maharashtra,Borivli,Chadipally Kavitha,Yes,3,0,1,Good,32,No,NI,166,Days_left,No
+267,300627,MARUTI,RITZ,VXI,Tamil Nadu,TIRUVALLUR,Reena Tarugu,Yes,3,0,1,Good,253,No,I,30,Days_left,No
+268,300626,MARUTI,OMNI,8 SEATER,Maharashtra,PIMPRI CHINCHWAD,Chadipally Kavitha,Yes,9,0,4,Good,425,Yes,I,9,Days_left,No
+269,300625,FORD,ENDEAVOUR NEW,3.2L 4X4 TITANIUM AT,Jammu & Kashmir,JAMMU,G Raj Kumar Yadav,Yes,1,0,1,Good,110,No,I,0,No_data,No
+270,300624,TATA,SAFARI STORME,2.2 EX 4X2,Madhya Pradesh,INDORE,Syed Fareed Uddin,No,1,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+271,300623,HYUNDAI,GRAND I10,SPORTZ 1.2 KAPPA DUAL VTVT 5 SPEED,DELHI,Delhi West Janak Puri,Reena Tarugu,Yes,6,0,1,Good,422,No,I,11,Days_left,No
+272,300622,HYUNDAI,VERNA,1.6 SX VTVT,West Bengal,MURSHIDABAD,Neha Khare,No,2,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+273,300621,FORD,FIGO ASPIRE,1.5 TDCI DIESEL TREND (O),Tamil Nadu,"MADURAI SOUTH, TIRUMANGALAM",Pardeep Pal,Yes,1,0,1,Good,41,No,I,0,No_data,No
+274,300620,MARUTI,CELERIO,ZXI AMT (O),Punjab,FAZILKA,Neha Khare,Yes,4,0,2,Good,169,No,I,6,Days_left,No
+275,300618,TATA,INDICA V2 XETA,1.4 GLS,TRIPURA,BISHRAMGANJ,Kireeti Pasupuleti,Yes,1,0,1,Good,96,No,NI,0,No_data,No
+276,300617,RENAULT,DUSTER,110 PS RXL DIESEL EXPLORE,Chandigarh,CHANDIGARH,Sodha Bekesh,Yes,4,0,3,Good,921,Yes,I,0,Expired,No
+277,300616,MARUTI,ERTIGA,VDI,Maharashtra,PUNE,Pardeep Pal,No,3,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+278,300615,FORD,FREESTYLE,TITANIUM 1.2 TI-VCT,Andhra Pradesh,ADILABAD,Neha Khare,No,121,0,1,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+279,300613,MARUTI,VITARA BREZZA,ZDI AMT,Andhra Pradesh,ANANTAPUR,Neha Khare,No,0,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+280,300612,FORD,ECOSPORT,1.0 PETROL ECOBOOST TITANIUM MT,West Bengal,HOWRAH,Pardeep Pal,No,2,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+281,300611,RENAULT,KWID,RXT,Uttar Pradesh,PANCHSHEEL NAGAR(HAPUR),Kireeti Pasupuleti,No,1,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+282,300610,HYUNDAI,GRAND I10,SPORTZ 1.2 KAPPA DUAL VTVT 5 SPEED,Telangana,Hyderabad,G Raj Kumar Yadav,No,2,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+283,300609,MARUTI,DZIRE,VDI,Andhra Pradesh,VISAKHAPATNAM,Neha Khare,Yes,3,0,1,Good,20,No,NI,0,No_data,No
+284,300608,FORD,ESCORT,1.3,CHHATTISGARH,RAIPUR,Neha Khare,Yes,18,0,3,Good,67,No,NI,0,No_data,No
+285,300607,HYUNDAI,SANTRO XING,XL,Uttar Pradesh,LUCKNOW,Neha Khare,No,2,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,No
+286,300606,MARUTI,ALTO 800,LXI,Odisha,CUTTACK,G Raj Kumar Yadav,Yes,11,0,1,Good,160,No,NI,0,No_data,No
+287,300605,MARUTI,CIAZ,AT VXI PLUS,Maharashtra,PANVEL,G Raj Kumar Yadav,Yes,2,0,1,Good,216,Yes,I,36,Days_left,No
+288,300604,FORD,FIGO ASPIRE,1.2 TIVCT PETROL TITANIUM MT,Maharashtra,GONDIA,Kireeti Pasupuleti,Yes,1,0,1,Good,148,Yes,I,0,No_data,No
+289,300603,MARUTI,RITZ,VXI,Haryana,GURGAON,G Raj Kumar Yadav,Yes,3,0,1,Good,106,No,I,0,No_data,No
+290,300602,HYUNDAI,EON,ERA,Punjab,HOSHIARPUR,Kireeti Pasupuleti,Yes,8,1,2,Bad,210,Yes,I,0,No_data,No
+291,300601,MARUTI,A-STAR,LXI,DELHI,Delhi West Janak Puri,Pardeep Pal,Yes,3,0,3,Good,365,Yes,I,1,Days_left,No
+292,300598,SKODA,RAPID,1.5 TDI CR ACTIVE MT,Delhi,CENTRAL DELHI-SARAI KALE KHAN,Kireeti Pasupuleti,Yes,4,0,4,Good,482,No,I,0,No_data,No
+293,300597,MARUTI,BALENO,1.2 DELTA,UTTARAKHAND,HARIDWAR,Kireeti Pasupuleti,Yes,1,0,1,Bad,388,No,I,13,Days_left,No
+294,300596,MAHINDRA & MAHINDRA,BOLERO,DI 8 SEATER,Uttar Pradesh,GHAZIPUR,Mahenderkar Arvind,Yes,3,0,3,Good,1251,No,NI,1,Days_left,No
+295,300594,HYUNDAI,ACCENT,GLE,Tamil Nadu,CHENNAI,Venkatesh Upperpally,Yes,2,0,2,Good,27,Yes,NI,0,No_data,No
+296,300593,HONDA,BRIO,1.2 V AUTOMATIC TRANSMISSION,Karnataka,BANGALORE NORTH (YESHWANTHPUR),Kireeti Pasupuleti,Yes,1,0,1,Good,35,Yes,NI,0,No_data,No
+297,300592,MARUTI,ALTO K10,LXI,MANIPUR,Imphal East,Kireeti Pasupuleti,Yes,1,0,1,Good,266,No,I,0,No_data,No
+298,300591,AUDI,Q5,2.0 TFSI QUATTRO,Tripura,AGARTALA,Venkatesh Upperpally,Yes,1,0,1,Good,71,No,NI,0,No_data,No
+299,300589,MARUTI,WAGON R,VXI AMT,Goa,MARGAO,Mahenderkar Arvind,Yes,3,0,3,Good,976,Yes,I,4,Days_left,No
+300,300588,MARUTI,WAGON R,VXI (K-SERIES 1.0) WITH ABS,Maharashtra,SOLAPUR,Venkatesh Upperpally,Yes,1,0,0,Good,301,No,NI,0,No_data,No
+251,296350,TOYOTA,ETIOS,1.5 G PETROL,Himachal Pradesh,NOORPUR,Pardeep Pal,Yes,2,0,2,Good,1721,No,I,14,Days_left,Yes
+252,296333,VOLKSWAGEN,VENTO,1.6 HIGHLINE MANUAL TRANSMISSION DIESEL,Karnataka,BANGALORE CENTRAL (KORAMANGALA),Chadipally Kavitha,Yes,21,1,9,Good,1943,No,I,23,Expiring_today,Yes
+253,296329,CHEVROLET,BEAT,1.0 LT DIESEL,Punjab,JALANDHAR,T Venkatesh,Yes,4,0,4,Good,721,Yes,I,1,Days_left,Yes
+254,296318,MAHINDRA & MAHINDRA,KUV 100,1.2 K2 PLUS DIESEL 6 SEATER,Delhi,NORTH DELHI-TILAK MARG,Venkatesh Upperpally,Yes,1,0,1,Good,1413,No,I,0,Expiring_today,Yes
+255,296294,HYUNDAI,I 10,1.1 MAGNA,Haryana,GURGAON,Mohammed Hafeez khan,Yes,1,0,1,Good,1880,No,I,9,Days_left,Yes
+256,296287,MARUTI,WAGON R,1.0 VXI PLUS AMT,Haryana,FARIDABAD,Mohammed Sameer Ahmed,Yes,2,0,2,Good,665,No,I,10,Days_left,Yes
+257,296271,TOYOTA,ETIOS,1.5 G PETROL,Delhi,SOUTH DELHI-SHEIKH SARAI,Mohammed Hafeez khan,Yes,2,0,2,Good,1764,No,I,3,Days_left,Yes
+258,296268,BMW,5 SERIES,530D,Maharashtra,MUMBAI (EAST) - WADALA,Kireeti Pasupuleti,Yes,13,0,9,Good,1693,Yes,I,30,Expiring_today,Yes
+259,296231,HONDA,CITY ZX,EXI,Uttar Pradesh,GORAKHPUR,Nagadhara Sai Laxmi,Yes,4,0,4,Good,1556,No,I,6,Days_left,Yes
+260,296226,FORD,FIGO ASPIRE,1.5 TIVCT PETROL TITANIUM AT,UTTARAKHAND,DEHRADUN,Purushotham,Yes,23,1,2,Good,1166,Yes,I,0,Expired,Yes
+261,296215,TATA,SAFARI DICOR 2.2 VTT,GX 7 SEATER,Maharashtra,SOLAPUR,Syed Fareed Uddin,Yes,2,0,2,Good,1929,No,I,0,Expiring_today,Yes
+262,296190,HONDA,NEW CITY,1.5 ZX MANUAL TRANSMISSION I-DTEC DIESEL,Maharashtra,SANGLI,Shivaram,Yes,3,0,3,Good,288,No,I,0,No_data,Yes
+263,296185,VOLKSWAGEN,VENTO,1.6 HIGHLINE PLUS MANUAL TRANSMISSION PETROL,Maharashtra,MUMBAI (WEST) - ANDHERI,S. Harish Kumar,Yes,1,0,1,Good,536,No,I,0,No_data,Yes
+264,296175,CHEVROLET,AVEO UVA,1.2 BASE,Delhi,WEST DELHI-JANAK PURI,Syed Fareed Uddin,Yes,2,0,2,Good,2024,No,I,12,Days_left,Yes
+265,296160,HONDA,CIVIC,1.8 E MANUAL TRANSMISSION,Maharashtra,MUMBAI (CENTRAL) - TARDEO,Shivaram,Yes,5,0,4,Good,931,Yes,I,0,No_data,Yes
+266,296131,DATSUN,REDI GO,T(O),Bihar,SIWAN,Syed Imran,Yes,2,0,2,Good,112,No,I,0,No_data,Yes
+267,296130,TOYOTA,INNOVA CRYSTA,2.8 G 7 STR,Rajasthan,JHUNJHUNU,Aries Barnard Singh,Yes,5,0,1,Good,790,No,I,2,Days_left,Yes
+268,296090,RENAULT,DUSTER,RXE DIESEL 85 PS,Chandigarh,CHANDIGARH,G Raj Kumar Yadav,Yes,3,0,1,Good,377,No,I,7,Days_left,Yes
+269,296080,MAHINDRA & MAHINDRA,XUV 500,W8 FWD,Andhra Pradesh,RANGAREDDY,Chadipally Kavitha,Yes,23,1,9,Good,481,Yes,I,0,Expired,Yes
+270,296070,TOYOTA,ETIOS CROSS,1.4L D-4D VD,Uttar Pradesh,MIRZAPUR,T Venkatesh,Yes,23,1,17,Good,3767,Yes,I,14,Days_left,Yes
+271,296050,HONDA,CITY,1.5 GXI,Uttar Pradesh,LUCKNOW,G Raj Kumar Yadav,Yes,2,0,1,Good,868,No,I,0,No_data,Yes
+272,296030,HYUNDAI,I 10,SPORTZ 1.2 KAPPA VTVT,Maharashtra,AURANGABAD,Kireeti Pasupuleti,Yes,4,0,3,Good,1261,Yes,I,0,No_data,Yes
+273,295978,HYUNDAI,SANTRO XING,GL,Haryana,FARIDABAD,Mohammed Sameer Ahmed,Yes,2,0,1,Good,2394,No,I,2,Days_left,Yes
+274,295971,MARUTI,CELERIO,ZXI AMT,Kerala,ADUR KERALA,Kireeti Pasupuleti,Yes,4,0,4,Good,699,Yes,I,1,Days_left,Yes
+275,295947,HYUNDAI,FLUIDIC VERNA,1.6 VTVT EX AT,Maharashtra,MUMBAI (WEST) - ANDHERI,Neha Khare,Yes,9,0,9,Good,4102,Yes,I,7,Days_left,Yes
+276,295944,HYUNDAI,EON,ERA,Uttar Pradesh,FIROZABAD,Reena Tarugu,Yes,2,0,2,Good,814,Yes,I,1,Days_left,Yes
+277,295943,TATA,NANO,LX,Maharashtra,NASHIK,Purushotham,Yes,7,1,5,Good,608,No,I,0,Expired,Yes
+278,295941,HYUNDAI,I 10,1.1 MAGNA LPG,Tamil Nadu,CHENNAI SOUTH WEST (VALASARAWAKKAM),Nagadhara Sai Laxmi,Yes,2,0,2,Good,834,Yes,I,5,Days_left,Yes
+279,295934,HYUNDAI,SANTRO XING,GL LPG,UTTARAKHAND,RISHIKESH,Shivaram,Yes,3,0,2,Good,545,No,I,1,Days_left,Yes
+280,295933,HYUNDAI,ACCENT,EXECUTIVE,Telangana,Hyderabad,Bodupally Rakesh,Yes,6,0,6,Good,1808,Yes,I,0,Expired,Yes
+281,295920,HYUNDAI,I 20,1.2 SPORTZ,Delhi,NORTH WEST DELHI-WAZIR PUR,Shivaram,Yes,9,0,4,Good,540,Yes,I,4,Days_left,Yes
+282,295918,HYUNDAI,EON,ERA PLUS,Haryana,GURGAON,Shivaram,No,2,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,Yes
+283,295902,MAHINDRA & MAHINDRA,KUV 100,1.2 K6 PLUS PETROL 6 SEATER,Haryana,BAHADURGARH,Purushotham,Yes,4,0,4,Good,1274,Yes,I,10,Days_left,Yes
+284,295899,MARUTI,VITARA BREZZA,1.2 ZDI DDIS 200,Maharashtra,THANE,Nagadhara Sai Laxmi,Yes,28,1,19,Good,5060,Yes,I,11,Days_left,Yes
+285,295895,HONDA,BR-V,S DIESEL,Maharashtra,NAGPUR,Purushotham,Yes,2,0,2,Good,275,No,I,1,Days_left,Yes
+286,295893,CHEVROLET,BEAT,1.0 LT DIESEL,Haryana,GURGAON,Mohammed Waheed Ali,Yes,10,0,7,Good,2884,Yes,I,15,Days_left,Yes
+287,295875,HYUNDAI,GRAND I10,SPORTZ 1.2 KAPPA DUAL VTVT 5 SPEED,Himachal Pradesh,KANGRA,S. Harish Kumar,Yes,5,0,2,Good,731,No,I,11,Days_left,Yes
+288,295861,CHEVROLET,SAIL UVA,1.2,Maharashtra,KALYAN,Syed Fareed Uddin,Yes,1,0,1,Good,1163,No,I,16,Days_left,Yes
+289,295855,HYUNDAI,CRETA,1.6L DUAL VTVT 6-SPEED MANUAL E PLUS,Chandigarh,CHANDIGARH,Nagadhara Sai Laxmi,Yes,1,1,1,Good,51,No,I,0,No_data,Yes
+290,295846,MAHINDRA & MAHINDRA,BOLERO,SLX 2WD 7 SEATER,Madhya Pradesh,ANUPPUR,Mallela Shiva Kumar,Yes,14,1,10,Good,3214,Yes,I,0,Expired,Yes
+291,295840,HYUNDAI,VERNA,SX CRDA 1.6,Tamil Nadu,"MADURAI NORTH, MELUR",Kireeti Pasupuleti,Yes,13,0,8,Good,2630,No,I,0,Expired,Yes
+2911,295840,TOYOTA_,ETIOS,GD,Tamil Nadu,"MADURAI NORTH, MELUR",Kireeti Pasupuleti,Yes,13,0,8,Good,2630,No,I,7,Days_left,Yes
+292,295821,SKODA,RAPID,AMBITION PLUS 1.6 TDI CR MT,Tamil Nadu,TAMBARAM,Nagadhara Sai Laxmi,Yes,7,0,7,Good,1636,Yes,I,0,Expiring_today,Yes
+293,295816,MARUTI,DZIRE,LDI,Gujarat,EAST AHMEDABAD,Kireeti Pasupuleti,No,4,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,Yes
+294,295797,TOYOTA,ETIOS LIVA,1.4 D-4D GD,Goa,MARGAO,Purushotham,Yes,5,0,3,Good,692,No,I,20,Days_left,Yes
+295,295794,NISSAN MOTORS,SUNNY,XL DIESEL,Haryana,GURGAON,Nagadhara Sai Laxmi,Yes,4,0,3,Good,432,Yes,I,0,No_data,Yes
+296,295742,RENAULT,DUSTER,RXL DIESEL 85 PS,Uttar Pradesh,AGRA,Khaleel Ahmed,Yes,2,0,1,Good,1412,No,I,0,No_data,Yes
+297,295733,HYUNDAI,EON,ERA PLUS,Kerala,GURUVAYUR,Khaleel Ahmed,Yes,7,0,1,Good,13,No,NI,0,No_data,Yes
+298,295728,TATA,TIAGO,REVOTRON XT,Gujarat,RAJKOT,Syed Imran,No,1,0,0,Call Not Picked,0,Call Not Picked,NI,0,No_data,Yes
+299,295727,MARUTI,RITZ,VDI,Jammu & Kashmir,SAMBA,Neha Khare,Yes,2,0,2,Good,1309,No,I,0,No_data,Yes
+300,295708,VOLKSWAGEN,POLO,1.2 PETROL TRENDLINE,JAMMU and KASHMIR,JAMMU,Khaleel Ahmed,Yes,12,0,5,Good,734,Yes,I,14,Days_left,Yes
