@@ -22,8 +22,10 @@ This project predicts customer purchase behavior using machine learning based on
 ---
 
 ## Files in the Repository
-| `ML-Customer_Buying_Behavior.ipynb` | Jupyter Notebook containing the full analysis, model training, and evaluation. |
-| `data_1_final.csv` | CSV file containing processed customer call data used for training and testing models. |
+| `ML-Customer_Buying_Behavior.ipynb` | Jupyter Notebook containing the full analysis, model training, and evaluation.
+
+| `data_1_final.csv` | CSV file containing processed customer call data used for training and testing models. 
+
 | `data_1_final.xlsx` | Excel version of the dataset for convenience and reference. |
 
 ---
